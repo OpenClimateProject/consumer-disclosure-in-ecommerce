@@ -1,6 +1,6 @@
 # Consumer Disclosure in Ecommerce Customer Journeys
 
-**Prompt category: Networked Climate Markets**
+**Prompt category: Networked Climate Markets** \
 **Prompt: Consumer Disclosure Contracts for Sustainable Supply Chains**
 
 ## What’s the problem?
