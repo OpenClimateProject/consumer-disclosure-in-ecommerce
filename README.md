@@ -33,13 +33,14 @@ Project **CO2ken** helps by envisioning a carbon-backed currency
 
 The working groups met from May through July 2020 to 
 -- Induct the teams on the work done till this time  
--- Generate ideas for further development of the various projects.  These are collected in the[idea sheet](https://docs.google.com/spreadsheets/d/1aOJ76HEbkgeFsF7z_4wJlfufQRievMcwAIvPl_aCwRM/edit?usp=sharing) 
+-- Generate ideas for further development of the various projects.  These are collected in the [idea sheet](https://docs.google.com/spreadsheets/d/1aOJ76HEbkgeFsF7z_4wJlfufQRievMcwAIvPl_aCwRM/edit?usp=sharing) 
 
 ## Objectives for 2020
 -- to follow
 
 ## Next actions 
 -- The ideas collected above are translated to actionable issues in this project repository
+
 -- Resulting from the design / exercise an epic / user story backlog will continually emerge, which will be packaged in a lightweight project structure
 
 
