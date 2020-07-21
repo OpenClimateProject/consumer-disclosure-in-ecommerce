@@ -11,9 +11,9 @@ To develop and prototype a product that the WG community deems worthy to address
 
 ## Existing body of work
 
-Considerable work has been done during 2019 team contributions and research work of several that has led to progress in the development of several e-commerce related concepts \
+Considerable work has been done during 2019 team contributions and research work of several that has led to progress in the development of several e-commerce related concepts
 
-- **Consumer Disclosure Contracts for Sustainable Supply Chains**
+- **Consumer Disclosure Contracts for Sustainable Supply Chains**\
 Addresses the following problem:
     - Unsustainable supply chains contribute to environmental footprints
     - Develop a model to track supply chains and rebalance the information asymmetry 
