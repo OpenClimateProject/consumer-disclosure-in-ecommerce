@@ -47,18 +47,18 @@ The working groups met from May through July 2020 to
 
 ## Objectives for 2020
 - Market analysis:
-  -Explore existing solutions
-  -Identify unsolved problems
--Create a product roadmap:
-  -Identify data sources
-  -Create a product architecture:
-    -Create data connectors/APIs
-    -Create front-end models e.g. plugin/website
--Create a working prototype
--Market Reach:
-  -Identify prospective partners
-  -Present prototype to prospective partners
--Expand working group and contributions
+    - Explore existing solutions
+    - Identify unsolved problems
+- Create a product roadmap:
+    - Identify data sources
+    - Create a product architecture:
+        - Create data connectors/APIs
+        - Create front-end models e.g. plugin/website
+- Create a working prototype
+- Market Reach:
+  - Identify prospective partners
+  - Present prototype to prospective partners
+- Expand working group and contributions
         
 
 ## Next actions 
