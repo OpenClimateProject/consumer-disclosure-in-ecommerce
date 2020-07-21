@@ -20,7 +20,7 @@ Addresses the following problem:
 
 As a solution it proposes a disclosure framework from primary material upto the finished product delivered to the customer .
 
-- **Informing the customer in E-commerce : browser extension**\ 
+- **Informing the customer in E-commerce : browser extension**<br> 
 A browser extension concept that lets consumers understand the environmental and social impact of the purchases they are going to make
 
 - **Enabling the consumer offseting his/ her C impact**\
