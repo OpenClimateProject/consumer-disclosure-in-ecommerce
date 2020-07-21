@@ -1,6 +1,6 @@
 # Consumer Disclosure in Ecommerce Customer Journeys
 
-**Prompt category: Networked Climate Markets** \
+**Prompt category: Networked Climate Markets** 
 
 ## Mission 
 To develop and prototype a product that the WG community deems worthy to address consumer disclosure gaps between products and its end-users (the mainstream audience) and foster more sustainable supply chains. To build on top of previous efforts around the e-commerce entry point for user adoption.
@@ -26,7 +26,16 @@ As a solution it proposes a disclosure framework from primary material upto the 
 - **Enabling the consumer offseting his/ her C impact**
 Project **CO2ken** helps by envisioning a carbon-backed currency
 
-## Arnav can you please insert the reckoner table here
+## 2020 Project Reckoner
+
+| Project Name                                                | Description                                                                                                                                | Prompt           | Github              | Contact                |
+|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------|------------------------|
+| Consumer Disclosure Contracts for Sustainable Supply Chains | Developing an overarching framework &  integration architecture                                                                            | Wiki   Hack_2019 |                     | Karolina Bryce WanYing |
+| EcoWidgy - Consumer Disclosure Contracts                    | A browser extension that lets consumers understand the environmental and social impact of the purchases they are going to make.            | Hack_2019        | EcoWidgy_   backend | Eleftherios            |
+| E-Shopping Browser Plugin                                   |                                                                                                                                            | Hack_2019        |                     |                        |
+| E-mission                                                   | Open Source personal mobility information and analysis:  Overview     Videos on the UI   Live Demo   Architecture : Ch 3 - Thesis Shankari |                  |                     | Shankari               |
+|                                                             | MECO2 Interface (E-mission branch)  Click Dummy Demo  -  Code                                                                              |                  |                     | Eleftherios            |
+| CO2Ken                                                      | Enabling the consumer offseting his/ her C impact by envisioning a carbon-backed currency.   YouTube Intro                                 | Wiki             |                     | Raphael                |
 
 
 # Progressing in 2020  
