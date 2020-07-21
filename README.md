@@ -21,9 +21,9 @@ Addresses the following problem:
 As a solution it proposes a disclosure framework from primary material upto the finished product delivered to the customer .
 
 - **Informing the customer in E-commerce : browser extension** 
- - A browser extension concept that lets consumers understand the environmental and social impact of the purchases they are going to make
+A browser extension concept that lets consumers understand the environmental and social impact of the purchases they are going to make
 
-- **Enabling the consumer offseting his/ her C impact**
+- **Enabling the consumer offseting his/ her C impact**\
 Project **CO2ken** helps by envisioning a carbon-backed currency
 
 ## 2020 Project Reckoner
