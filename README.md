@@ -15,8 +15,8 @@ Considerable work has been done during 2019 team contributions and research work
 
 - **Consumer Disclosure Contracts for Sustainable Supply Chains**
 Addresses the following problem:
- - Unsustainable supply chains contribute to environmental footprints
- - Develop a model to track supply chains and rebalance the information asymmetry 
+    - Unsustainable supply chains contribute to environmental footprints
+    - Develop a model to track supply chains and rebalance the information asymmetry 
 
 As a solution it proposes a disclosure framework from primary material upto the finished product delivered to the customer .
 
