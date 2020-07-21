@@ -46,7 +46,20 @@ The working groups met from May through July 2020 to
 - Generate ideas for further development of the various projects.  These are collected in the [idea sheet](https://docs.google.com/spreadsheets/d/1aOJ76HEbkgeFsF7z_4wJlfufQRievMcwAIvPl_aCwRM/edit?usp=sharing) 
 
 ## Objectives for 2020
-- to follow
+- Market analysis:
+    -Explore existing solutions
+    -Identify unsolved problems
+-Create a product roadmap:
+    -Identify data sources
+    -Create a product architecture:
+        -Create data connectors/APIs
+        -Create front-end models e.g. plugin/website
+-Create a working prototype
+-Market Reach:
+    -Identify prospective partners
+    -Present prototype to prospective partners
+-Expand working group and contributions
+        
 
 ## Next actions 
 - The ideas collected above are translated to actionable issues in this project repository
